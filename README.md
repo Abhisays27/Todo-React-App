@@ -11,4 +11,4 @@ Used to add your daily todo list and update and delete it.
 
 **Server:** Firebase
 
-[Link to the website] (todoappabhi.netlify.app)
+Click [here](todoappabhi.netlify.app) to go to the todo app
